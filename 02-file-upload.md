@@ -36,7 +36,7 @@
 
 `../../hackable/uploads/shell.php`
 
-!\[上传成功]()
+!\[上传成功](https://github.com/TRD-2005/security-writeups/blob/main/images/02-upload-success.png?raw=true)
 
 
 
