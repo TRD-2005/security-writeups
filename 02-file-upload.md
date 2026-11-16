@@ -26,7 +26,7 @@
 
 开启 Burp Suite 拦截功能，在 DVWA 的 File Upload 页面选中 `shell.php` 并点击 Upload。Burp 成功拦截到 HTTP 请求，可以看到 `filename="shell.php"` 的原始数据包。
 
-!\[Burp抓包](images/01-burp-intercept.png)
+!\[Burp抓包](https://github.com/TRD-2005/security-writeups/blob/main/images/01-burp-intercept.png?raw=true)
 
 
 
@@ -36,7 +36,7 @@
 
 `../../hackable/uploads/shell.php`
 
-!\[上传成功](images/02-upload-success.png)
+!\[上传成功]()
 
 
 
@@ -44,7 +44,7 @@
 
 浏览器访问 `http://localhost/dvwa/hackable/uploads/shell.php`，页面成功解析并回显了代码中的字符串，证明恶意代码成功在服务器端执行。
 
-!\[代码执行](images/03-shell-executed.png)
+!\[代码执行]()
 
 
 
