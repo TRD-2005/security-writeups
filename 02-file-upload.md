@@ -44,7 +44,7 @@
 
 浏览器访问 `http://localhost/dvwa/hackable/uploads/shell.php`，页面成功解析并回显了代码中的字符串，证明恶意代码成功在服务器端执行。
 
-!\[代码执行]()
+!\[代码执行](https://github.com/TRD-2005/security-writeups/blob/main/images/03-shell-executed.png?raw=true)
 
 
 
