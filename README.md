@@ -1,2 +1,11 @@
-# security-writeups
-My vulnerability writeups for security service
+# 网络安全漏洞复现作品集（安全服务方向）
+
+## 关于我
+- 大连民族大学 网络工程 2028届本科
+- CISP-PTE（备考中，2027.01）
+- 关注方向：安全服务交付、漏洞解释与修复推进、应急响应与告警研判
+
+## 报告目录
+| 编号 | 漏洞 | 靶场 | 报告链接 |
+|---|---|---|---|
+| 01 | SQL注入（联合查询） | DVWA | [点击查看](01-sqli-union.md) |
